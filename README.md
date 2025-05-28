@@ -1,5 +1,3 @@
- 
-#  Hello, I'm Maryam Shahbaz Ali
 
 I'm a Business Analytics graduate student at **The George Washington University**, driven by a passion for **machine learning**, **ethical AI**, and solving complex real-world problems through data. With a multidisciplinary background in marketing, fitness entrepreneurship, and analytics, I combine technical skills with strategic insight to create impactful, data-informed solutions.
 
