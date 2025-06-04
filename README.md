@@ -1,5 +1,5 @@
 
-I'm a Business Analytics graduate student at **The George Washington University**, driven by a passion for **machine learning**, **ethical AI**, and solving complex real-world problems through data. With a multidisciplinary background in marketing, fitness entrepreneurship, and analytics, I combine technical skills with strategic insight to create impactful, data-informed solutions.
+I'm a Business Analytics graduate student at **The George Washington University**, driven by a passion for  machine learning , ethical AI, and solving complex real-world problems through data. With a multidisciplinary background in marketing, fitness entrepreneurship, and analytics, I combine technical skills with strategic insight to create impactful, data-informed solutions.
 
 ##  What I'm Passionate About
 - Designing **interpretable and bias-aware ML models** using SHAP, EBM, and AIR  
