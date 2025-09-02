@@ -31,8 +31,7 @@ I'm a Business Analytics graduate student at **The George Washington University*
   Developed LASSO and Ridge models with 85% accuracy to optimize daily fleet planning.
 
 - [Financial & Risk Analytics Expertise – CECL, Credit Risk, and Predictive Modeling] (https://github.com/tsjmaryam/CECL_R/blob/main/README.md)
-- CECL-compliant forecasting framework in R, combining time-series models (ARIMAX) with macroeconomic drivers such as unemployment, home prices, and delinquency rates.
-
+  CECL-compliant forecasting framework in R, combining time-series models (ARIMAX) with macroeconomic drivers such as unemployment, home prices, and delinquency rates.
 
 - [ Iowa Liquor Sales Market Entry](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry)  
   Built a complete SQL + Python pipeline on AWS with Power BI dashboards to identify underserved regions.
