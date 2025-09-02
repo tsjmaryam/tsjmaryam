@@ -40,7 +40,7 @@ I'm a Business Analytics graduate student at **The George Washington University*
 
 ## Let’s Connect  
 
-- [LinkedIn](YOUR_LINKEDIN_URL)  
+**LinkedIn** (https://www.linkedin.com/in/maryamshahbazali/))  
 
 **GitHub:** (https://github.com/tsjmaryam))  
 
