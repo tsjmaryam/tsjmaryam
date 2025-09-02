@@ -40,9 +40,11 @@ I'm a Business Analytics graduate student at **The George Washington University*
 
 ## Let’s Connect  
 
-- [LinkedIn](#)  
+- [LinkedIn](YOUR_LINKEDIN_URL)  
 
-**GitHub Portfolio:** [Click Here](#)
+**GitHub:** (https://github.com/tsjmaryam))  
+
+**Portfolio:** (https://tsjmaryam.github.io/))
 
 
 ---
