@@ -30,12 +30,18 @@ I'm a Business Analytics graduate student at **The George Washington University*
 - [ Capital Bikeshare Demand Forecasting](https://github.com/tsjmaryam/Machine-Learning-II)  
   Developed LASSO and Ridge models with 85% accuracy to optimize daily fleet planning.
 
+- [Financial & Risk Analytics Expertise – CECL, Credit Risk, and Predictive Modeling] (https://github.com/tsjmaryam/CECL_R/blob/main/README.md)
+- CECL-compliant forecasting framework in R, combining time-series models (ARIMAX) with macroeconomic drivers such as unemployment, home prices, and delinquency rates.
+
+
 - [ Iowa Liquor Sales Market Entry](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry)  
   Built a complete SQL + Python pipeline on AWS with Power BI dashboards to identify underserved regions.
+
 
 ##  Let’s Connect
  [LinkedIn](https://linkedin.com/in/maryamshahbazali)  
  [GitHub](https://github.com/tsjmaryam)
+ [Portfolio](https://tsjmaryam.github.io/)
 
 ---
 
