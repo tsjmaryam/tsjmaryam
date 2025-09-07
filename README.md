@@ -39,11 +39,11 @@ I'm a Business Analytics graduate student at **The George Washington University*
 
 ## Let’s Connect  
 
-**LinkedIn** (https://www.linkedin.com/in/maryamshahbazali/)
+**LinkedIn** https://www.linkedin.com/in/maryamshahbazali/
 
-**GitHub:** (https://github.com/tsjmaryam)  
+**GitHub:** https://github.com/tsjmaryam  
 
-**Portfolio:** (https://tsjmaryam.github.io/)
+**Portfolio:** https://tsjmaryam.github.io/
 
 
 ---
