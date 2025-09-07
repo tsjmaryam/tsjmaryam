@@ -24,16 +24,16 @@ I'm a Business Analytics graduate student at **The George Washington University*
 
 ## Featured Projects
 
-- [Fair Lending Bias-Remediated ML](https://github.com/tsjmaryam/Fair-Lending-Bias-Remediated-ML)  
+- [Fair Lending Bias-Remediated ML](https://github.com/tsjmaryam/RML--Group-6)  
   Created transparent, bias-remediated models for fair mortgage decision-making using SHAP and EBM.
 
 - [Capital Bikeshare Demand Forecasting](https://github.com/tsjmaryam/Capital-Bikeshare-Demand-Forecasting)  
   Developed LASSO and Ridge models with 85% accuracy to optimize daily fleet planning.
 
-- [Financial & Risk Analytics: CECL, Credit Risk, and Predictive Modeling](https://github.com/tsjmaryam/CECL-CreditRisk-Modeling)  
+- [Financial & Risk Analytics: CECL, Credit Risk, and Predictive Modeling](https://github.com/tsjmaryam/CECL_Federal-Reserve-Bank-of-St.-Louis-)
   Built a CECL-compliant forecasting framework in R, combining ARIMAX time-series models with macroeconomic drivers: unemployment, home prices, and delinquency rates.
 
-- [Iowa Liquor Sales Market Entry](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Market-Entry)  
+- [Iowa Liquor Sales Market Entry](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry) 
   Built a complete SQL + Python pipeline on AWS with Power BI dashboards to identify underserved regions.
 
 ---
