@@ -23,6 +23,9 @@ I'm a Business Analytics graduate student at **The George Washington University*
 - Financial Modeling: CECL components (`PD`, `LGD`, `EAD`)
 
 ## Featured Projects
+-[Explainable AI Chatbot for Fraud Alert Analysis]: Built a Streamlit-based RAG assistant integrating Explainable Boosting Machines (EBM) to interpret fraud signals and justify model decisions in real time, accelerating analyst alert resolution by 30% and boosting fraud recovery rates by 15%.
+
+
 - [Capital Bikeshare Demand Forecasting](https://github.com/tsjmaryam/Capital-Bikeshare-Demand-Forecasting)  
   Developed LASSO and Ridge models with 85% accuracy to optimize daily fleet planning.
 
