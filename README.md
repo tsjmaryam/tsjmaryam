@@ -11,14 +11,17 @@ I'm a Business Analytics graduate from **The George Washington University**, dri
 ### Skills & Tools
 
 **Programming & Data**
+
 Python (pandas, NumPy, scikit-learn, statsmodels) • R • SQL (PostgreSQL, SparkSQL)  
 Data cleaning • feature engineering • data validation • ETL pipelines  
 
 **Business Intelligence & Visualization**
+
 Power BI • Tableau • SAS Visual Analytics • ggplot2  
 KPI design • dashboard development • analyst-facing reporting • insight storytelling  
 
 **Machine Learning (Applied)**
+
 Supervised learning (classification & regression)  
 Random Forest • XGBoost • LightGBM  
 SVM • LASSO • Ridge • ElasticNet  
@@ -26,23 +29,27 @@ Explainable Boosting Machines (EBM)
 Model training, validation, and performance evaluation (AUC, lift, RMSE)
 
 **Explainable & Responsible ML**
+
 Global and local model interpretability (EBM, SHAP)  
 Feature-level risk driver analysis  
 Bias and fairness testing (AIR, subgroup analysis)  
 Transparent model evaluation for audit and governance use cases  
 
 **Decision Support & Analytics**
+
 Alert prioritization and case-level analysis  
 Score interpretation and threshold analysis  
 Analyst workflow optimization  
 Decision-support design for review-based environments  
 
 **Forecasting & Statistical Analysis**
+
 Time-series forecasting (ARIMA / ARIMAX)  
 Trend and seasonality analysis  
 A/B testing • hypothesis testing • statistical diagnostics  
 
 **Applied AI & Analytics Engineering**
+
 Streamlit applications for analyst-facing tools  
 Retrieval-Augmented Generation (RAG) for contextual explanations  
 LLM integration (LangChain, OpenAI API)  
@@ -50,6 +57,7 @@ Prompt design for structured analytical outputs
 Vector databases (FAISS) for similarity search  
 
 **Data & Cloud**
+
 AWS • Apache Spark  
 Dimensional data modeling  
 Scalable data processing and deployment-ready workflows  
