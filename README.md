@@ -1,5 +1,16 @@
+I’m a Business Analytics graduate from The George Washington University with hands-on experience
+building data-driven systems using Python, SQL, and R. My work focuses on applied machine learning,
+Responsible AI, and analyst-facing decision-support tools, with an emphasis on transparency,
+interpretability, and real-world usability.
 
-I'm a Business Analytics graduate from **The George Washington University**, driven by a passion for  machine learning , ethical AI, and solving complex real-world problems through data. With a multidisciplinary background in marketing, fitness entrepreneurship, and analytics, I combine technical skills with strategic insight to create impactful, data-informed solutions.
+I’ve built and shipped end-to-end projects that include explainable ML models (EBM, SHAP),
+forecasting pipelines, bias and fairness evaluations (AIR), and an award-winning AI chatbot that
+combines interpretable models with retrieval-based reasoning to support high-stakes fraud analysis.
+
+With a multidisciplinary background spanning analytics, marketing, and entrepreneurship, I bridge
+data science and business strategy by translating complex model behavior into clear, actionable
+insights.
+
 
 ##  What I'm Passionate About
 - Designing **interpretable and bias-aware ML models** using SHAP, EBM, and AIR  
