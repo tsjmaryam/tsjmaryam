@@ -16,55 +16,76 @@ With a multidisciplinary background spanning analytics, marketing, and entrepren
 
 **Programming & Data**
 
-Python (pandas, NumPy, scikit-learn, statsmodels) • R • SQL (PostgreSQL, SparkSQL)  
-Data cleaning • feature engineering • data validation • ETL pipelines  
+Python (pandas, NumPy, scikit-learn, statsmodels, PyTorch) • R • SQL (PostgreSQL, SparkSQL)  
+Data cleaning • feature engineering • data validation • ETL pipelines • exploratory data analysis  
+Notebook-based research workflows (Jupyter, VS Code)
+
+---
 
 **Business Intelligence & Visualization**
 
-Power BI • Tableau • SAS Visual Analytics • ggplot2  
-KPI design • dashboard development • analyst-facing reporting • insight storytelling  
+Power BI • Tableau • SAS Visual Analytics • ggplot2 • Matplotlib • Seaborn  
+KPI design • dashboard development • stakeholder reporting • insight storytelling  
+Data visualization for model diagnostics and decision support
+
+---
 
 **Machine Learning (Applied)**
 
 Supervised learning (classification & regression)  
-Random Forest • XGBoost • LightGBM  
+Random Forest • XGBoost • LightGBM • Gradient Boosting  
 SVM • LASSO • Ridge • ElasticNet  
 Explainable Boosting Machines (EBM)  
-Model training, validation, and performance evaluation (AUC, lift, RMSE)
+Deep learning basics (CNNs for image classification)
+
+Model training, cross-validation, and performance evaluation  
+(AUC • ROC • lift • RMSE • confusion matrix)
+
+---
 
 **Explainable & Responsible ML**
 
 Global and local model interpretability (EBM, SHAP)  
-Feature-level risk driver analysis  
+Feature importance and risk driver analysis  
 Bias and fairness testing (AIR, subgroup analysis)  
-Transparent model evaluation for audit and governance use cases  
+Transparent model evaluation for audit, governance, and regulatory use cases
+
+---
 
 **Decision Support & Analytics**
 
 Alert prioritization and case-level analysis  
 Score interpretation and threshold analysis  
 Analyst workflow optimization  
-Decision-support design for review-based environments  
+Decision-support system design for review-based environments
+
+---
 
 **Forecasting & Statistical Analysis**
 
 Time-series forecasting (ARIMA / ARIMAX)  
 Trend and seasonality analysis  
 A/B testing • hypothesis testing • statistical diagnostics  
+Regression modeling and econometric analysis
+
+---
 
 **Applied AI & Analytics Engineering**
 
 Streamlit applications for analyst-facing tools  
 Retrieval-Augmented Generation (RAG) for contextual explanations  
 LLM integration (LangChain, OpenAI API)  
-Prompt design for structured analytical outputs  
-Vector databases (FAISS) for similarity search  
+Prompt engineering for structured analytical outputs  
+Vector databases (FAISS)
+
+---
 
 **Data & Cloud**
 
 AWS • Apache Spark  
 Dimensional data modeling  
-Scalable data processing and deployment-ready workflows  
+Scalable data processing workflows  
+Version control (Git, GitHub) 
 
 
 ## Featured Projects
