@@ -79,6 +79,9 @@ Scalable data processing and deployment-ready workflows
 - **[Explainable AI Chatbot for Alert Analysis](https://github.com/tsjmaryam/FraudLens-AI-Chatbot)**  
   Built an award-winning, Streamlit-based decision-support tool using interpretable machine-learning models (EBM) and Retrieval-Augmented Generation (RAG) to help analysts understand key drivers behind alerts, justify model outputs, and prioritize reviews more effectively—reducing manual review time by ~30%.
 
+ - **[Breast Cancer Image Classification with CNN + LLM Summarization](https://github.com/tsjmaryam/breastmnist_multimodal_pipeline)**
+  Developed a convolutional neural network (CNN) using the BreastMNIST dataset to classify malignant vs. benign breast tissue images and evaluate model performance using accuracy, ROC-AUC, and confusion matrix analysis. Integrated an LLM-based component to generate clinician-friendly summaries of model results, translating technical outputs into interpretable insights for research and healthcare audiences. The repository includes the full codebase and a PDF notebook with outputs for reproducibility.
+
 - **[Capital Bikeshare Demand Forecasting](https://github.com/tsjmaryam/Capital-Bikeshare-Demand-Forecasting)**  
   Developed LASSO and Ridge regression models to forecast daily bike demand, supporting operational planning and improving resource allocation accuracy (~85% R²).
 
