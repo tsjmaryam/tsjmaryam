@@ -1,15 +1,8 @@
-I’m a Business Analytics graduate from The George Washington University with hands-on experience
-building data-driven systems using Python, SQL, and R. My work focuses on applied machine learning,
-Responsible AI, and analyst-facing decision-support tools, with an emphasis on transparency,
-interpretability, and real-world usability.
+I’m a Business Analytics graduate from The George Washington University with hands-on experience building data-driven systems using Python, SQL, and R. My work focuses on applied machine learning, Responsible AI, and analyst-facing decision-support tools, with an emphasis on transparency, interpretability, and real-world usability.
 
-I’ve built and shipped end-to-end projects that include explainable ML models (EBM, SHAP),
-forecasting pipelines, bias and fairness evaluations (AIR), and an award-winning AI chatbot that
-combines interpretable models with retrieval-based reasoning to support high-stakes fraud analysis.
+I design and deploy end-to-end analytics solutions that combine interpretable machine learning, statistical modeling, and modern AI workflows. My projects include explainable ML models (EBM, SHAP), forecasting pipelines, bias and fairness evaluations (AIR), and deep learning applications such as CNN-based medical image classification. I have also built LLM-assisted analytical tools that translate model outputs into clear, decision-ready insights for technical and non-technical stakeholders.
 
-With a multidisciplinary background spanning analytics, marketing, and entrepreneurship, I bridge
-data science and business strategy by translating complex model behavior into clear, actionable
-insights.
+With a multidisciplinary background spanning analytics, marketing, and entrepreneurship, I bridge data science and business strategy by translating complex model behavior into actionable insights. I am particularly interested in responsible AI systems that support high-stakes decision environments such as fraud analysis, healthcare, and risk modeling.
 
 
 ##  What I'm Passionate About
