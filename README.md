@@ -5,12 +5,19 @@ I design and deploy end-to-end analytics solutions that combine interpretable ma
 With a multidisciplinary background spanning analytics, marketing, and entrepreneurship, I bridge data science and business strategy by translating complex model behavior into actionable insights. I am particularly interested in responsible AI systems that support high-stakes decision environments such as fraud analysis, healthcare, and risk modeling.
 
 
-##  What I'm Passionate About
-- Designing **interpretable and bias-aware ML models** using SHAP, EBM, and AIR  
-- Building scalable, real-time forecasting tools using **Python**, **SQL**, and **cloud technologies**  
-- Exploring **CECL (Current Expected Credit Loss)** frameworks to develop responsible credit risk models  
-- Bridging **data science and business strategy** through visualization and experimentation  
-- Applying the **discipline and resilience** I’ve developed through years of **weightlifting and coaching** to my work in analytics
+## What I'm Passionate About
+
+Designing interpretable and bias-aware machine learning systems using SHAP, EBM, and fairness evaluation frameworks such as AIR.
+
+Building decision-support tools that translate complex model outputs into clear, actionable insights for analysts and domain experts.
+
+Developing applied AI solutions across domains including fraud detection, healthcare analytics, and risk modeling.
+
+Building scalable data and forecasting pipelines using Python, SQL, and cloud-based data infrastructure.
+
+Bridging data science and business strategy through experimentation, visualization, and interpretable modeling.
+
+Applying the discipline and resilience developed through years of weightlifting and coaching to complex analytical problem solving.
 
 ### Skills & Tools
 
