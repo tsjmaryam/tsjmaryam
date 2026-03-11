@@ -37,7 +37,6 @@ Random Forest • XGBoost • LightGBM • Gradient Boosting
 SVM • LASSO • Ridge • ElasticNet  
 Explainable Boosting Machines (EBM)  
 Deep learning basics (CNNs for image classification)
-
 Model training, cross-validation, and performance evaluation  
 (AUC • ROC • lift • RMSE • confusion matrix)
 
