@@ -23,20 +23,23 @@ First Author | Children's National Hospital | October 2026
 Investigated how biomedical reranking improves retrieval quality and answer correctness in LLM-based clinical question answering.
 
 
+
 ### Skills & Tools
 
 **AI Engineering & Large Language Models**
 
 LLMs • Retrieval-Augmented Generation (RAG) • Qwen3-8B • vLLM  
-LangChain • FAISS • Prompt Engineering • Local Model Inference  
-LLM Evaluation • Answer Correctness • Error Analysis • Model Reliability
+LangChain • FAISS • Local Model Inference • Prompt Engineering  
+LLM Evaluation • Model Reliability • Error Analysis • Answer Correctness  
+Gradio • Streamlit • Docker
 
 ---
 
 **Information Retrieval & Biomedical AI**
 
-Dense Retrieval • BM25 • Reciprocal Rank Fusion (RRF)  
-PubMedBERT • MedCPT Reranking • Clinical NLP  
+Dense Retrieval • BM25 • Hybrid Search • Reciprocal Rank Fusion (RRF)  
+PubMedBERT • MedCPT Reranking • Sentence Transformers  
+Clinical NLP • Knowledge-Augmented Retrieval  
 Retrieval Evaluation (Hit@K, MRR) • BLEU • ROUGE
 
 ---
@@ -54,8 +57,8 @@ Model Interpretability • Fairness Evaluation • Bias Analysis
 
 Python (pandas, NumPy, statsmodels) • SQL • R  
 PostgreSQL • Google BigQuery • Apache Spark  
-ETL Pipelines • Data Validation • Schema Testing  
-Data Transformation • Sensitive-Data Redaction
+ETL Pipelines • Data Validation • JSON Schema  
+Data Transformation • Data Quality Testing
 
 ---
 
@@ -63,16 +66,16 @@ Data Transformation • Sensitive-Data Redaction
 
 ARIMA • ARIMAX • LASSO • Ridge Regression  
 Time-Series Analysis • Hypothesis Testing • A/B Testing  
-Experimental Design • Statistical Modeling • Performance Metrics
+Experimental Design • Statistical Modeling • Performance Evaluation
 
 ---
 
 **Cloud, Development & Visualization**
 
-AWS • Git • GitHub • Jupyter • VS Code  
-Streamlit • Power BI • Tableau • Matplotlib • Seaborn  
+AWS • Git • GitHub • GitHub Actions  
+Jupyter • VS Code • Docker  
+Power BI • Tableau • Matplotlib • Seaborn  
 Dashboard Development • KPI Design • Technical Documentation
-
 
 ## Featured Research & Projects
 
