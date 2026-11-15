@@ -14,17 +14,13 @@ I enjoy translating complex technical problems into practical solutions that are
 
 ## Research & Publications
 
-### Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes
+Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes
 
-**First Author | Children's National Hospital | October 2026**
+First Author | Children's National Hospital | October 2026
 
 [Read the Paper on arXiv](https://arxiv.org/abs/2610.01324)
 
 Investigated how biomedical reranking improves retrieval quality and answer correctness in LLM-based clinical question answering.
-
-
-
-### Skills & Tools
 
 
 ### Skills & Tools
@@ -77,25 +73,94 @@ AWS • Git • GitHub • Jupyter • VS Code
 Streamlit • Power BI • Tableau • Matplotlib • Seaborn  
 Dashboard Development • KPI Design • Technical Documentation
 
-## Featured Projects
 
-- **[Explainable AI Chatbot for Alert Analysis](https://github.com/tsjmaryam/FraudLens-AI-Chatbot)**  
-  Built an award-winning, Streamlit-based decision-support tool using interpretable machine-learning models (EBM) and Retrieval-Augmented Generation (RAG) to help analysts understand key drivers behind alerts, justify model outputs, and prioritize reviews more effectively—reducing manual review time by ~30%.
+## Featured Research & Projects
 
- - **[Breast Cancer Image Classification with CNN + LLM Summarization](https://github.com/tsjmaryam/breastmnist_multimodal_pipeline)**
-  Developed a convolutional neural network (CNN) using the BreastMNIST dataset to classify malignant vs. benign breast tissue images and evaluate model performance using accuracy, ROC-AUC, and confusion matrix analysis. Integrated an LLM-based component to generate clinician-friendly summaries of model results, translating technical outputs into interpretable insights for research and healthcare audiences. The repository includes the full codebase and a PDF notebook with outputs for reproducibility.
+### [Biomedical RAG & LLM Evaluation](https://arxiv.org/abs/2610.01324)
+**First-Author Research | Children's National Hospital | 2026**
 
-- **[Capital Bikeshare Demand Forecasting](https://github.com/tsjmaryam/Capital-Bikeshare-Demand-Forecasting)**  
-  Developed LASSO and Ridge regression models to forecast daily bike demand, supporting operational planning and improving resource allocation accuracy (~85% R²).
+Investigated how retrieval quality influences the reliability of LLM-generated answers in clinical question answering. Developed and evaluated a hybrid retrieval pipeline combining dense retrieval, BM25, reciprocal rank fusion, and biomedical reranking.
 
-- **[Risk & Forecasting Analytics Project](https://github.com/tsjmaryam/CECL_Federal-Reserve-Bank-of-St.-Louis-)**  
-  Built a forecasting framework in R using ARIMAX models and macroeconomic indicators (e.g., unemployment, housing prices) to support scenario analysis and stress testing in regulated environments.
+- Evaluated 1,000 clinical question-answer pairs across 200 patients.
+- Improved retrieval Hit@10 from 46.6% to 60.6%.
+- Improved mean reciprocal rank from 0.237 to 0.325.
+- Improved answer correctness from 44.8% to 48.6%.
+- Conducted local model inference under clinical data privacy constraints.
 
-- **[Fair Lending & Bias-Aware Modeling](https://github.com/tsjmaryam/RML--Group-6)**  
-  Developed interpretable models using EBM and SHAP to evaluate and remediate bias in decision outcomes, balancing model performance with transparency and fairness considerations.
+**Stack:** Python, PubMedBERT, BM25, MedCPT, Qwen3-8B, vLLM, RAG, LLM Evaluation
 
-- **[Iowa Liquor Sales Market Entry Analysis](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry)**  
-  Built an end-to-end SQL and Python analytics pipeline on AWS with Power BI dashboards to identify demand patterns, underserved regions, and growth opportunities for retail expansion.
+---
+
+### [FraudLens - Explainable AI Chatbot for Alert Analysis](https://github.com/tsjmaryam/FraudLens-AI-Chatbot)
+
+Developed an explainable AI decision-support prototype to help analysts understand fraud alerts, interpret model predictions, and identify relevant risk drivers.
+
+- Combined interpretable machine learning with retrieval-augmented generation.
+- Used model explainability techniques to support transparent, evidence-based analysis.
+- Designed analyst-facing workflows to improve alert interpretation and investigation efficiency.
+
+**Stack:** Python, Streamlit, Explainable Boosting Machines (EBM), SHAP, RAG
+
+---
+
+### [Breast Cancer Image Classification & LLM Summarization](https://github.com/tsjmaryam/breastmnist_multimodal_pipeline)
+
+Developed a medical image classification pipeline using convolutional neural networks and LLM-assisted explanations.
+
+- Trained and evaluated CNN models using the BreastMNIST dataset.
+- Assessed performance using accuracy, ROC-AUC, and confusion matrices.
+- Integrated LLM-generated summaries to make model outputs more accessible to healthcare audiences.
+
+**Stack:** Python, CNN, Deep Learning, Medical Image Classification, LLMs
+
+---
+
+### [Capital Bikeshare Demand Forecasting](https://github.com/tsjmaryam/Capital-Bikeshare-Demand-Forecasting)
+
+Built predictive models to forecast bicycle demand and support operational planning.
+
+- Applied LASSO and Ridge regression for demand forecasting.
+- Analyzed historical usage patterns and predictive relationships.
+- Achieved approximately 0.85 R² in model evaluation.
+
+**Stack:** Python, scikit-learn, LASSO, Ridge Regression, Predictive Modeling
+
+---
+
+### [Financial Risk & Economic Forecasting](https://github.com/tsjmaryam/CECL_Federal-Reserve-Bank-of-St.-Louis-)
+
+Developed a time-series forecasting framework to examine financial risk under changing economic conditions.
+
+- Built ARIMAX models using macroeconomic indicators.
+- Explored relationships between economic trends and financial exposure.
+- Applied statistical modeling to support scenario analysis and stress testing.
+
+**Stack:** R, ARIMAX, Time-Series Forecasting, Statistical Modeling
+
+---
+
+### [Fair Lending & Bias-Aware Modeling](https://github.com/tsjmaryam/RML--Group-6)
+
+Explored how machine learning models can balance predictive accuracy, interpretability, and fairness in lending decisions.
+
+- Applied explainable machine learning techniques to investigate model behavior.
+- Analyzed important predictive features and potential sources of bias.
+- Examined fairness and performance tradeoffs in decision-making systems.
+
+**Stack:** Python, Explainable Boosting Machines, SHAP, Fairness Evaluation
+
+---
+
+### [Iowa Liquor Sales - Market Entry Analytics](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry)
+
+Developed an end-to-end analytics workflow to support data-driven market expansion decisions.
+
+- Analyzed historical sales, geographic demand, and market opportunities.
+- Built data preparation and analytical workflows.
+- Developed visualizations to communicate business insights.
+
+**Stack:** Python, SQL, AWS, Power BI
+
 
 
 ---
