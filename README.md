@@ -10,13 +10,9 @@ I enjoy translating complex technical problems into practical solutions that are
 ## Research & Publications
 
 Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes
-
 First Author | Children's National Hospital | October 2026
-
 [Read the Paper on arXiv](https://arxiv.org/abs/2610.01324)
-
 Investigated how biomedical reranking improves retrieval quality and answer correctness in LLM-based clinical question answering.
-
 
 
 ### Skills & Tools
@@ -161,7 +157,6 @@ Developed an end-to-end analytics workflow to support data-driven market expansi
 **Stack:** Python, SQL, AWS, Power BI
 
 
-
 ---
 
 ## Let’s Connect  
@@ -172,6 +167,7 @@ Developed an end-to-end analytics workflow to support data-driven market expansi
 
 **Portfolio:** https://tsjmaryam.github.io/
 
+**Research Publication:** https://arxiv.org/abs/2610.01324
 
 ---
 
