@@ -26,12 +26,16 @@ Investigated how biomedical reranking improves retrieval quality and answer corr
 
 ### Skills & Tools
 
-**AI Engineering & Large Language Models**
+**AI Engineering, LLM Systems & Evaluation**
 
-LLMs • Retrieval-Augmented Generation (RAG) • Qwen3-8B • vLLM  
-LangChain • FAISS • Local Model Inference • Prompt Engineering  
-LLM Evaluation • Model Reliability • Error Analysis • Answer Correctness  
-Gradio • Streamlit • Docker
+Model Inference & Serving: Qwen3-8B • vLLM • Local GPU Inference • Docker
+
+Retrieval & Generation: RAG • FAISS • LangChain • Hybrid Retrieval • Prompt Engineering
+
+Model Evaluation: Benchmarking • Answer Correctness • Error Analysis • Failure Mode Investigation • Reliability Assessment
+
+AI Applications: Gradio • Streamlit • End-to-End LLM Pipelines
+
 
 ---
 
