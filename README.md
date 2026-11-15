@@ -1,3 +1,5 @@
+## About Me
+
 I'm an AI engineer and applied machine learning researcher with a Master's in Business Analytics from The George Washington University.
 
 My work focuses on developing and evaluating intelligent systems across healthcare, financial technology, and decision-support applications.
