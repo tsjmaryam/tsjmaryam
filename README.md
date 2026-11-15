@@ -1,15 +1,10 @@
 ## About Me
 
 I'm an AI engineer and applied machine learning researcher with a Master's in Business Analytics from The George Washington University.
-
 My work focuses on developing and evaluating intelligent systems across healthcare, financial technology, and decision-support applications.
-
 At Children's National Hospital, I conduct biomedical AI research focused on large language models, retrieval-augmented generation (RAG), and clinical question-answering systems.
-
 I am also involved in AI engineering and analytics at Freedom Buckets, contributing to financial data infrastructure, data validation, and machine learning workflows.
-
 My interests lie at the intersection of applied AI, machine learning evaluation, explainability, and trustworthy systems.
-
 I enjoy translating complex technical problems into practical solutions that are reliable, interpretable, and useful in real-world settings.
 
 ## Research & Publications
