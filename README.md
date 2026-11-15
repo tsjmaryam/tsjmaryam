@@ -29,11 +29,8 @@ Investigated how biomedical reranking improves retrieval quality and answer corr
 **AI Engineering, LLM Systems & Evaluation**
 
 Model Inference & Serving: Qwen3-8B • vLLM • Local GPU Inference • Docker
-
 Retrieval & Generation: RAG • FAISS • LangChain • Hybrid Retrieval • Prompt Engineering
-
 Model Evaluation: Benchmarking • Answer Correctness • Error Analysis • Failure Mode Investigation • Reliability Assessment
-
 AI Applications: Gradio • Streamlit • End-to-End LLM Pipelines
 
 
