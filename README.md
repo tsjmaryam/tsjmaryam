@@ -1,23 +1,15 @@
-I’m a Business Analytics graduate from The George Washington University with hands-on experience building data-driven systems using Python, SQL, and R. My work focuses on applied machine learning, Responsible AI, and analyst-facing decision-support tools, with an emphasis on transparency, interpretability, and real-world usability.
+I'm an AI engineer and applied machine learning researcher with a Master's in Business Analytics from The George Washington University.
 
-I design and deploy end-to-end analytics solutions that combine interpretable machine learning, statistical modeling, and modern AI workflows. My projects include explainable ML models (EBM, SHAP), forecasting pipelines, bias and fairness evaluations (AIR), and deep learning applications such as CNN-based medical image classification. I have also built LLM-assisted analytical tools that translate model outputs into clear, decision-ready insights for technical and non-technical stakeholders.
+My work focuses on developing and evaluating intelligent systems across healthcare, financial technology, and decision-support applications.
 
-With a multidisciplinary background spanning analytics, marketing, and entrepreneurship, I bridge data science and business strategy by translating complex model behavior into actionable insights. I am particularly interested in responsible AI systems that support high-stakes decision environments such as fraud analysis, healthcare, and risk modeling.
+At Children's National Hospital, I conduct biomedical AI research focused on large language models, retrieval-augmented generation (RAG), and clinical question-answering systems.
 
+I am also involved in AI engineering and analytics at Freedom Buckets, contributing to financial data infrastructure, data validation, and machine learning workflows.
 
-## What I'm Passionate About
+My interests lie at the intersection of applied AI, machine learning evaluation, explainability, and trustworthy systems.
 
-Designing interpretable and bias-aware machine learning systems using SHAP, EBM, and fairness evaluation frameworks such as AIR.
+I enjoy translating complex technical problems into practical solutions that are reliable, interpretable, and useful in real-world settings.
 
-Building decision-support tools that translate complex model outputs into clear, actionable insights for analysts and domain experts.
-
-Developing applied AI solutions across domains including fraud detection, healthcare analytics, and risk modeling.
-
-Building scalable data and forecasting pipelines using Python, SQL, and cloud-based data infrastructure.
-
-Bridging data science and business strategy through experimentation, visualization, and interpretable modeling.
-
-Applying the discipline and resilience developed through years of weightlifting and coaching to complex analytical problem solving.
 
 ### Skills & Tools
 
