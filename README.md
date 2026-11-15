@@ -24,81 +24,58 @@ Investigated how biomedical reranking improves retrieval quality and answer corr
 
 
 
+### Skills & Tools
+
 
 ### Skills & Tools
 
-**Programming & Data**
+**AI Engineering & Large Language Models**
 
-Python (pandas, NumPy, scikit-learn, statsmodels, PyTorch) • R • SQL (PostgreSQL, SparkSQL)  
-Data cleaning • feature engineering • data validation • ETL pipelines • exploratory data analysis  
-Notebook-based research workflows (Jupyter, VS Code)
-
----
-
-**Business Intelligence & Visualization**
-
-Power BI • Tableau • SAS Visual Analytics • ggplot2 • Matplotlib • Seaborn  
-KPI design • dashboard development • stakeholder reporting • insight storytelling  
-Data visualization for model diagnostics and decision support
+LLMs • Retrieval-Augmented Generation (RAG) • Qwen3-8B • vLLM  
+LangChain • FAISS • Prompt Engineering • Local Model Inference  
+LLM Evaluation • Answer Correctness • Error Analysis • Model Reliability
 
 ---
 
-**Machine Learning (Applied)**
+**Information Retrieval & Biomedical AI**
 
-Supervised learning (classification & regression)  
-Random Forest • XGBoost • LightGBM • Gradient Boosting  
-SVM • LASSO • Ridge • ElasticNet  
-Explainable Boosting Machines (EBM)  
-Deep learning basics (CNNs for image classification)
-Model training, cross-validation, and performance evaluation  
-(AUC • ROC • lift • RMSE • confusion matrix)
+Dense Retrieval • BM25 • Reciprocal Rank Fusion (RRF)  
+PubMedBERT • MedCPT Reranking • Clinical NLP  
+Retrieval Evaluation (Hit@K, MRR) • BLEU • ROUGE
 
 ---
 
-**Explainable & Responsible ML**
+**Machine Learning & Responsible AI**
 
-Global and local model interpretability (EBM, SHAP)  
-Feature importance and risk driver analysis  
-Bias and fairness testing (AIR, subgroup analysis)  
-Transparent model evaluation for audit, governance, and regulatory use cases
-
----
-
-**Decision Support & Analytics**
-
-Alert prioritization and case-level analysis  
-Score interpretation and threshold analysis  
-Analyst workflow optimization  
-Decision-support system design for review-based environments
+PyTorch • scikit-learn • XGBoost • LightGBM • Random Forest  
+CNNs • Classification • Regression • Cross-Validation  
+SHAP • Explainable Boosting Machines (EBM)  
+Model Interpretability • Fairness Evaluation • Bias Analysis
 
 ---
 
-**Forecasting & Statistical Analysis**
+**Programming & Data Engineering**
 
-Time-series forecasting (ARIMA / ARIMAX)  
-Trend and seasonality analysis  
-A/B testing • hypothesis testing • statistical diagnostics  
-Regression modeling and econometric analysis
-
----
-
-**Applied AI & Analytics Engineering**
-
-Streamlit applications for analyst-facing tools  
-Retrieval-Augmented Generation (RAG) for contextual explanations  
-LLM integration (LangChain, OpenAI API)  
-Prompt engineering for structured analytical outputs  
-Vector databases (FAISS)
+Python (pandas, NumPy, statsmodels) • SQL • R  
+PostgreSQL • Google BigQuery • Apache Spark  
+ETL Pipelines • Data Validation • Schema Testing  
+Data Transformation • Sensitive-Data Redaction
 
 ---
 
-**Data & Cloud**
+**Statistics, Forecasting & Experimentation**
 
-AWS • Apache Spark  
-Dimensional data modeling  
-Scalable data processing workflows  
-Version control (Git, GitHub) 
+ARIMA • ARIMAX • LASSO • Ridge Regression  
+Time-Series Analysis • Hypothesis Testing • A/B Testing  
+Experimental Design • Statistical Modeling • Performance Metrics
 
+---
+
+**Cloud, Development & Visualization**
+
+AWS • Git • GitHub • Jupyter • VS Code  
+Streamlit • Power BI • Tableau • Matplotlib • Seaborn  
+Dashboard Development • KPI Design • Technical Documentation
 
 ## Featured Projects
 
