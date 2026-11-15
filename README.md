@@ -12,6 +12,18 @@ My interests lie at the intersection of applied AI, machine learning evaluation,
 
 I enjoy translating complex technical problems into practical solutions that are reliable, interpretable, and useful in real-world settings.
 
+## Research & Publications
+
+### Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes
+
+**First Author | Children's National Hospital | October 2026**
+
+[Read the Paper on arXiv](https://arxiv.org/abs/2610.01324)
+
+Investigated how biomedical reranking improves retrieval quality and answer correctness in LLM-based clinical question answering.
+
+
+
 
 ### Skills & Tools
 
